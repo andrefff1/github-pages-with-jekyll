@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "First post, everyone!"
+title: "Fisrt post, everyone!"
+date: 2021-10-30
 ---
 
 # Welcome
