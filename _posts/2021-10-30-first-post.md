@@ -1,5 +1,5 @@
 ---
-title: "Fisrt post, everyone!"
+title: "First post, everyone!"
 date: 2021-10-30
 ---
 
